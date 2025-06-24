@@ -18,6 +18,8 @@ Dynamic Dashboards: Power BI provides interactive dashboards that allow users to
 **Insights Highlighted :**
 
 Vaccination progress over time
+
 Disparities in vaccine distribution across regions
+
 Effectiveness of vaccine rollout strategies
 
